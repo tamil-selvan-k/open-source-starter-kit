@@ -48,31 +48,24 @@ Here is a step-by-step guide on how to contribute directly from the **GitHub Web
 
 ### 1. Fork the Repository
 Click the **Fork** button at the top right of this page to create your own copy of this repository.
-![Fork Button](https://via.placeholder.com/800x400?text=Click+the+Fork+Button)
 
 ### 2. Go to Your Fork
 GitHub will take you to your personal copy of the repository. Make sure the URL shows your username!
-![Your Fork](https://via.placeholder.com/800x400?text=Go+to+your+Forked+Repo)
 
 ### 3. Create a New Branch
 Click the branch dropdown (where it says `main`) and type a new name for your branch (e.g., `add-john-doe` or `fix-typo`). Click "Create branch".
-![Create Branch](https://via.placeholder.com/800x400?text=Create+a+New+Branch)
 
 ### 4. Edit a File
 Navigate to the file you want to edit (e.g., `contributors.md` for Level 1). Click the pencil ✏️ icon in the top right corner of the file view.
-![Edit File](https://via.placeholder.com/800x400?text=Click+Pencil+to+Edit)
 
 ### 5. Commit Your Changes
 After making your edits, scroll down to the "Commit changes" box. Write a short, descriptive message (e.g., "Add Jane Doe to contributors") and click **Commit changes**.
-![Commit Changes](https://via.placeholder.com/800x400?text=Commit+Your+Changes)
 
 ### 6. Start a Pull Request
 Go back to the main page of the original repository (not your fork). You will see a green banner that says "Compare & pull request". Click it!
-![Compare & PR](https://via.placeholder.com/800x400?text=Click+Compare+%26+Pull+Request)
 
 ### 7. Create the Pull Request
 Fill out the provided Pull Request template, explaining what you did, and click the green **Create pull request** button.
-![Create PR](https://via.placeholder.com/800x400?text=Create+the+Pull+Request)
 
 🎉 **Congratulations! You just made an open-source contribution!** 🎉
 
