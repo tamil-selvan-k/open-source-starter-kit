@@ -1,6 +1,6 @@
 # 🛠️ The Fix-Me Document: An Epic Open Source Tale
 
-Welcome to the `fix-me.md` file! This is the **only** place in this repository where you'll find intentional mistaks. Your mission, should u choose to accept it, is to find and corect them!
+Welcome to the `fix-me.md` file! This is the **only** place in this repository where you'll find intentional mistakes. Your mission, should u choose to accept it, is to find and corect them!
 
 To give you plently of opertunites to contribute, we have prepared an extremely long, comprehensive guide about programming, comunities, and open source development. There are hundred's, may be thosands of small speling, grammar, and format mistakes hiddden through out this doc. Read along, find an error, make a fix, and open your Pull Request! Remember: **Only ONE fix per PR**.
 
