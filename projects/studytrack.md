@@ -12,7 +12,7 @@
 - **React (Vite):** Core framework for speed, modularity, and lightning-fast HMR.
 - **Tailwind CSS:** Professional utility-first styling for a completely responsive design.
 - **React Router V6:** Smooth client-side routing.
-- **Lucide Icons & Chart.js:** Clean typography, iconography, and dynamic data visualization.
+
 
 ### ⚙️ Backend & Integration
 - **Node.js & Express:** Scalable API architecture handling complex business logic.
