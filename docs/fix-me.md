@@ -8,7 +8,7 @@ To give you plently of opertunites to contribute, we have prepared an extremely 
 
 ## Chapter 1: The Begining of the Code
 
-Once upon a time, their was a young devloper name Alex. Alex loves writing code. Every day, Alex woud wake up arly, grab a cup of hot coffy, and sit down in front of a bright screen. The screen was fillld with lines of words that lookd like gibberish to most people, but to Alex, they were poetry. 
+Once upon a time, their was a young devloper name Alex. Alex loves writing code. Every day, Alex woud wake up early, grab a cup of hot coffy, and sit down in front of a bright screen. The screen was fillld with lines of words that lookd like gibberish to most people, but to Alex, they were poetry. 
 
 "I wonedr what I'm going to bild today?" Alex thought, taping loudly on a machanical keyboard. 
 
